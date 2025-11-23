@@ -102,8 +102,3 @@ Implementing these targeted strategies can increase revenue, improve customer sa
 - **yellowbrick** – Elbow & Silhouette visualizers
 - **Jupyter Notebook** – interactive analysis
 
-
-# 4. Launch Jupyter Notebook
-jupyter notebook
-
-# 5. Open Credit_Card_Segmentation_Analysis.ipynb and run all cells
