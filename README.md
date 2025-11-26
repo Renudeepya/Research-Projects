@@ -102,3 +102,51 @@ Implementing these targeted strategies can increase revenue, improve customer sa
 - **yellowbrick** – Elbow & Silhouette visualizers
 - **Jupyter Notebook** – interactive analysis
 
+
+
+
+
+
+# In Silico Discovery of GLUT3 Inhibitors for Pan-Cancer Therapy
+
+This repository contains the complete manuscript and supplementary materials for the study:
+
+**"In Silico Discovery of GLUT3 Inhibitors for Pan-Cancer Therapy"**
+
+## Overview
+
+A 32-page computational drug discovery study identifying novel, selective inhibitors of Glucose Transporter 3 (GLUT3), an emerging metabolic target overexpressed in multiple aggressive cancers including glioblastoma, lung, breast, and pancreatic adenocarcinoma.
+
+## Key Findings
+
+- High-quality GLUT3 homology model built from GLUT1 (PDB: 4PYP)
+- Virtual screening of 85,000 drug-like compounds using AutoDock Vina
+- Integrated QSAR modeling, ADMET filtering, and 200 ns molecular dynamics simulations
+- Identified **5 lead candidates** (GLUT3-INH-01 to GLUT3-INH-05) with:
+  - Strong predicted binding (best: –42.8 kcal/mol via MM-PBSA)
+  - Stable complexes over 200 ns MD
+  - Key H-bonds with Gln161, Asn317, Trp388
+  - Favorable drug-like properties and predicted oral/BBB permeability
+  - Low toxicity risk and synthetic accessibility
+
+These compounds represent promising starting points for experimental validation and development of a new class of metabolic anticancer agents.
+
+## Manuscript
+
+Full PDF (32 pages):  
+[In Silico Discovery of GLUT3 Inhibitors for Pan-Cancer Therapy (1).pdf](In%20Silico%20Discovery%20of%20GLUT3%20Inhibitors%20for%20Pan-Cancer%20Therapy%20(1).pdf)
+
+## Contents
+
+- Abstract & Introduction
+- Detailed Materials and Methods
+- Results with figures and analysis
+- Discussion and Conclusions
+
+## License
+
+This document is shared for academic and research purposes. Please cite appropriately if used in publications.
+
+---
+*November 2025*
+
